@@ -1,163 +1,124 @@
-@media only screen and (max-width: 600px)
- {	 
-	.second span
-	{
-		font-size: 24px;
-	}
-	.second .type
-	{
-		font-size: 24px;
-	}
-	.Photoshop button
-	{
-		margin-left: 30%;
-	}
-	.Photoshop .col-md-3, .col-md-4
-	{
-		margin-bottom: 20px;
-	}
-	.card-3 .row .text
-	{
-		align-items: center;
-		padding-bottom: 30px;
-		text-align: center!important;
-		box-shadow: none;
-	}
-	.card-3 .text .tag
-	{
-		text-align: center!important;
-		align-items: center!important;
-	}
-	.card-3 .text .degree
-	{
-		text-align: center!important;
-		align-items: center!important;
-	}
-	.card-3 .text .institution
-	{
-		text-align: center!important;
-		align-items: center!important;
-	}
-	.card-3 .row .img
-	{
-		margin-bottom: 0px;
-	}
-	.vikram
-	{
-		width: 100%!important;
-	}
-	.box
-	{
-		margin-left: 0px;
-	}
-	.pb-40
-	{
-		margin-bottom: 40px!important;
-	}
-	.pt-100{
-		padding-top: 30px!important;
-	}
-	.Dovelopment
-	{
-		padding-top: 0px;
-		padding-left: 0px;
-	}
-	.mtp-0
-	{
-		margin-top: 0px!important;
-	}
-	.vikram
-	{
-		width: 100%;
-	}
-	.font-18
-	{
-		font-size: 17px;
-		line-height: 1.25;
-	}
-	.mtphone
-	{
-		margin-top: 0px!important;
-	}
-	.navbar
-	{
-		margin-top: 0px;
-	}
-	.heroimg
-	{
-		margin-top: 20px;
-	}
-	.matri
-	{
-		border-radius: 0px;
-	} 
-	.rounded-right p
-	{
-		text-align: center;
-		align-items: center;
-	}
-	.rounded-right
-	{
-		border: none!important;
-	}
-	.Academic
-	{
-		margin-top: 0px;
-		padding-top: 0px;
-	}
-	.navbar-nav .nav-link
-	 {
-		padding-top: 10px;
-		padding-bottom: 10px;
-		margin-left: 20px;
-	}
-	.heroimg
-	{
-		width: 300px; 
-		height: 300px;
-	}
-	.sample-work
-	{
-		margin-left: 0px!important;
-	}
-	.hero-img h3
-	{
-		padding-left: 30px;
-		padding-right: 30px;
-	}
-	.hero-img .h3
-	{
-		padding-left: 30px;
-		padding-right:30px;
-	}
-	.py-30
-	{
-		padding: 6px 6px;
-		font-size: 12px;
-	}
-	.py-31
-	{
-		margin-left: 0px!important;
-		padding: 6px 6px;
-		font-size: 12px;
-	}
+@media only screen and (max-width: 600px) {
+  .second span {
+    font-size: 24px;
+  }
+  .second .type {
+    font-size: 24px;
+  }
+  .card-3 .row .text {
+    align-items: center;
+    padding-bottom: 30px;
+    text-align: center !important;
+    box-shadow: none;
+  }
+  .card-3 .text .tag {
+    text-align: center !important;
+    align-items: center !important;
+  }
+  .card-3 .text .degree {
+    text-align: center !important;
+    align-items: center !important;
+  }
+  .card-3 .text .institution {
+    text-align: center !important;
+    align-items: center !important;
+  }
+  .card-3 .row .img {
+    margin-bottom: 0px;
+  }
+  .vikram {
+    width: 100% !important;
+  }
+  .box {
+    margin-left: 0px;
+  }
+  .pb-40 {
+    margin-bottom: 40px !important;
+  }
+  .pt-100 {
+    padding-top: 30px !important;
+  }
+  .Dovelopment {
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+  .mtp-0 {
+    margin-top: 0px !important;
+  }
+  .vikram {
+    width: 100%;
+  }
+  .font-18 {
+    font-size: 17px;
+    line-height: 1.25;
+  }
+  .mtphone {
+    margin-top: 0px !important;
+  }
+  .navbar {
+    margin-top: 0px;
+  }
+  .heroimg {
+    margin-top: 20px;
+  }
+  .matri {
+    border-radius: 0px;
+  }
+  .rounded-right p {
+    text-align: center;
+    align-items: center;
+  }
+  .rounded-right {
+    border: none !important;
+  }
+  .Academic {
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .navbar-nav .nav-link {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+  }
+  .heroimg {
+    width: 300px;
+    height: 300px;
+  }
+  .sample-work {
+    margin-left: 0px !important;
+  }
+  .hero-img h3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .hero-img .h3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .py-30 {
+    padding: 6px 6px;
+    font-size: 12px;
+  }
+  .py-31 {
+    margin-left: 0px !important;
+    padding: 6px 6px;
+    font-size: 12px;
+  }
 }
-@media only screen and (max-width: 600px)
- {
-	.btns 
-	{
-		display: flex;
-		justify-content: center;
-	}
-	.btn-top,
-	.Sample-work 
-	{
-		width: 50%; 
-		margin-top: 20px;
-	}
-	.drop-side 
-	{
-		position: relative;
-		}
+@media only screen and (max-width: 600px) {
+  .btns {
+    display: flex;
+    justify-content: center;
+  }
+  .btn-top,
+  .Sample-work {
+    width: 50%;
+    margin-top: 20px;
+  }
+  .drop-side {
+    position: relative;
+  }
+  .mb-40 {
+    margin-bottom: 40px !important;
+  }
 }
- 
