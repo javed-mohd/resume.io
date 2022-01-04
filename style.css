@@ -63,6 +63,7 @@
 .span {
   font-family: "Rubik", sans-serif;
   font-size: 20px;
+  /*color: red;*/
 }
 .para {
   font-family: calibri;
@@ -87,6 +88,10 @@
   font-weight: bold;
   font-family: LinetoBlack !important;
   font-size: 30px;
+}
+.h-1
+{
+  font-size: 32px !important;
 }
 h4 {
   font-size: 30px;
@@ -121,7 +126,8 @@ h4 {
   margin-top: 0pt;
 }
 .firstp {
-  font-size: 20px;
+  font-size: 20px !important;
+  font-weight: normal !important;
 }
 .webicon {
   width: 40%;
