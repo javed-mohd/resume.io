@@ -41,7 +41,7 @@
 }
 
 .four {
-  font-size: 5vw;
+  font-size: 4em;
   color: #000000;
   font-weight: bold;
 }
@@ -61,7 +61,7 @@
   padding-top: 20px;
 }
 .span {
-  font-family: "Rubik", sans-serif;
+  font-weight: normal !important;
   font-size: 20px;
   /*color: red;*/
 }
@@ -76,13 +76,14 @@
   margin-left: 20px;
 }
 .font-18 {
-  font-size: 14px;
+  font-size: 16px;
+  font-family: calibri;
   font-weight: bold;
 }
 .design {
   font-weight: bold;
-  font-family: LinetoBlack !important;
-  font-size: 30px;
+  font-family: calibri !important;
+  font-size: 40px;
 }
 .delepment {
   font-weight: bold;
@@ -98,6 +99,12 @@ h4 {
 }
 .pt-100 {
   padding-top: 50px;
+
+}
+.p-dev
+{
+  font-family: calibri;
+font-size: 17px;
 }
 /*.pt-100{
 		padding-top: 100px;
@@ -127,7 +134,8 @@ h4 {
 }
 .firstp {
   font-size: 20px !important;
-  font-weight: normal !important;
+  font-family: calibri;
+  font-weight: bold !important;
 }
 .webicon {
   width: 40%;
@@ -159,7 +167,7 @@ h4 {
   color: #0089ff;
 }
 .webimg {
-  width: 62%;
+  width: 60%;
 }
 .text-info {
   font-size: 18px;
@@ -286,7 +294,7 @@ h4 {
 .aboutp {
   text-decoration: unset;
   font-family: calibri;
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
   padding-top: 30px;
 }
@@ -366,7 +374,7 @@ h4 {
   color: #e91e63;
   font-size: 16px;
   font-family: calibri;
-  text-align: left;
+  text-align: left !important;
   padding-top: 25px;
   padding-left: 20px;
 }

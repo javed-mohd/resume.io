@@ -5,6 +5,42 @@
   .second .type {
     font-size: 24px;
   }
+  .firstp
+  {
+    text-align: center !important;
+  }
+  .code
+  {
+    text-align: center;
+  }
+  .four
+  {
+    text-align: center;
+    font-size: 2.5em;
+    padding: 0px !important;
+  }
+  .heroimg1
+  {
+    margin-left: 15px;
+  }
+  .para
+  {
+    text-align: center;
+  }
+  .webimg
+  {
+    margin-left: 50px;
+    width: 70%;
+  }
+  .delepment
+  {
+    text-align: center;
+    padding-top: 0px !important;
+  }
+  .p-dev
+  {
+    text-align: center;
+  }
   .card-3 .row .text {
     align-items: center;
     padding-bottom: 30px;
@@ -39,9 +75,22 @@
     padding-top: 30px !important;
   }
   .Dovelopment {
-    padding-top: 0px;
-    padding-left: 0px;
+    padding-top: 0px !important;
+    margin-left: auto;
+    margin-left: auto;
   }
+  .pt-100
+  {
+    text-align: center;
+  }
+  .list
+  {
+    list-style-type: none !important;
+  }
+/*  .ul-stock
+  {
+    display: flex !important;
+  }*/
   .mtp-0 {
     margin-top: 0px !important;
   }
@@ -103,6 +152,22 @@
     margin-left: 0px !important;
     padding: 6px 6px;
     font-size: 12px;
+  }
+  .btns
+  {
+    text-align: center !important;
+  }
+  .font-18
+  {
+    text-align: center;
+  }
+  .design
+  {
+    text-align: center;
+  }
+  .para-2
+  {
+    text-align: center;
   }
 }
 @media only screen and (max-width: 600px) {
