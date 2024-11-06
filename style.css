@@ -262,6 +262,9 @@ font-size: 17px;
 /*home page close*/
 
 /*start about page*/
+.experience .educational-set .educational-set-wrapper .educational-right .classes-edu .right-edu.rc {
+    background-color: #13256c44;
+}
 .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu .left-edu {
     width: 75px;
     display: flex;
@@ -325,7 +328,7 @@ section-five .educational-set .educational-title-wrapper .educational-subtitle {
 }
 .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu .right-edu .tag {
     color: #E91E63;
-    font-size: 14px;
+    font-size: 17px;
     font-family: LinetoLight;
 }
 .experience .educational-set .educational-set-wrapper .educational-right .classes-edu .left-edu.ushyaku {
