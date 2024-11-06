@@ -262,6 +262,28 @@ font-size: 17px;
 /*home page close*/
 
 /*start about page*/
+.section-five .educational-set .educational-set-wrapper .educational-right .classes-edu .left-edu {
+    width: 75px;
+    display: flex;
+    height: auto;
+    background: #efefef;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.experience .educational-set .educational-set-wrapper .educational-right .classes-edu .right-edu {
+    width: calc(100% - 250px);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.experience .educational-set .educational-set-wrapper .educational-right .classes-edu.ekk .right-edu:after, .about .experience .educational-set .educational-set-wrapper .educational-right .classes-edu.doo .right-edu:after, .about .experience .educational-set .educational-set-wrapper .educational-right .classes-edu.teen .right-edu:after {
+    position: absolute;
+    right: 20%;
+    top: 5%;
+    font-size: 170px;
+    color: #f9f9f955;
+    font-family: LinetoBlack;
+}
 .section-five .educational-set .educational-title-wrapper .educational-subtitle {
     margin-bottom: 30px;
     text-align: center;
