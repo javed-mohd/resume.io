@@ -187,3 +187,15 @@
     margin-bottom: 40px !important;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .experience .educational-set .educational-set-wrapper .educational-right .classes-edu .left-edu {
+    width: 100%;
+  }
+  .experience .educational-set .educational-set-wrapper .educational-right .classes-edu .right-edu {
+    width: 100%;
+}
+  .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu {
+    display: block;
+}
+}
