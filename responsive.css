@@ -198,4 +198,7 @@
   .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu {
     display: block;
 }
+  .experience .educational-set .educational-set-wrapper .educational-right {
+    width: 100%;
+}
 }
