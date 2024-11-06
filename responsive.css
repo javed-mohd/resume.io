@@ -201,4 +201,7 @@
   .experience .educational-set .educational-set-wrapper .educational-right {
     width: 100%;
 }
+      .btn-top, .Sample-work {
+        display: block !important;
+    }
 }
