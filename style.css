@@ -262,7 +262,15 @@ font-size: 17px;
 /*home page close*/
 
 /*start about page*/
-
+.section-five .educational-set .educational-title-wrapper .educational-subtitle {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
 .section-five .educational-set .educational-title-wrapper .educational-title {
     text-align: center;
     font-size: 24px;
