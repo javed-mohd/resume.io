@@ -278,6 +278,7 @@ font-size: 17px;
     width: calc(100% - 250px);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    padding: 10px 0px 0px 32px;
 }
 .experience .educational-set .educational-set-wrapper .educational-right .classes-edu.ekk .right-edu:after, .about .experience .educational-set .educational-set-wrapper .educational-right .classes-edu.doo .right-edu:after, .about .experience .educational-set .educational-set-wrapper .educational-right .classes-edu.teen .right-edu:after {
     position: absolute;
